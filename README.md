@@ -11,7 +11,7 @@ C, C3, Zig, C++, Rust, Go, TypeScript, C#, Java, Kotlin and Swift. Five chapters
 (concepts, one file, modules, done, undo), each with a start and end branch so you can code along.
 Every language passes the same contract tests and a fuzz test against the Python version.
 
-<!-- YouTube: add the channel/playlist link on launch day -->
+**Watch it on YouTube: [Polyglot Code](https://www.youtube.com/@thepolyglotcode)**, a new language every Monday.
 
 ### Other things I've built
 - **[elssh](https://github.com/emukupa/elssh):** a Unix shell in C
